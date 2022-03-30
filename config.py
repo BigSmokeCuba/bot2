@@ -7,7 +7,7 @@ API_HASH = '76be0d3cbc21ba384b593a012f6ee9c0'
 USUARIO = 'jayala'
 PASSWORD = 'damarys/1'
 USUARIO_ID = 5258763564
-ZIP_MB =250 
+ZIP_MB = 250 
 MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [toni8790]
 
